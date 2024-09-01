@@ -7,7 +7,6 @@ Welcome to the repository for advanced Bash commands! This guide provides explan
 - [File and Directory Operations](#file-and-directory-operations)
 - [File Permissions](#file-permissions)
 - [Text Processing](#text-processing)
-- [File Management](#file-management)
 - [Viewing and Filtering](#viewing-and-filtering)
 - [Scripting and Automation](#scripting-and-automation)
 - [Additional Commands](#additional-commands)
